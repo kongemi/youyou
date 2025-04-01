@@ -1,0 +1,10 @@
+declare module 'react';
+declare module 'react-dom/client';
+declare module 'swiper/react';
+declare module 'swiper/modules';
+declare module 'swiper/css';
+declare module 'swiper/css/pagination';
+declare module 'swiper/css/navigation';
+declare module 'swiper/css/effect-fade';
+declare module 'path';
+declare module 'url'; 
